@@ -1,4 +1,4 @@
-# **Disable Directory Listing**
+# **Installing PHP**
 
 
 ## Table of contents
