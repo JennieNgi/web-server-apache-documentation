@@ -47,7 +47,7 @@
 2. Click MySQL Community Server
 3. Download the latest version `Windows (x86, 64-bit), ZIP Archive`
 
-![Download MySQL](/images/dlSQL.png)
+![Download MySQL](/images/dlSQL.PNG)
 
 4. Create a new `MySQL8.0` folder in the root of your `C:\` directory and extract the contents of the ZIP into it.
 
