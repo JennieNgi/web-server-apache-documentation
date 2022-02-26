@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-* [Creating Multiple Sites with Name Based Hosting on a Single IP Address]
+* Creating Multiple Sites with Name Based Hosting on a Single IP Address
     * [Configuration of the httpd.conf file](#multipleSitesConfOne)
     * [Configuration of the httpd-vhosts.conf file](#multipleSitesConfTwo)
     * [Configuration of the hosts file](#multipleSitesConfThree)
