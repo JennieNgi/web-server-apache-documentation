@@ -48,11 +48,11 @@
 1. Go to <em>https://www.php.net/downloads.php</em>.
 2. Click `Windows downloads`
 
-![dl php](/images/dlphp.png)
+![dl php](/images/dlphp.PNG)
 
 3. Download the latest `PHP 8 x64 Thread Safe ZIP` package. Make sure you are NOT downloading the Non Thread Safe Version.
 
-![Thread Safe](/images/phpthread.png)
+![Thread Safe](/images/phpthread.PNG)
 
 4. Create a new `php` folder in the root of your `C:\` directory and extract the contents of the ZIP into it.
 PHP can be installed anywhere on your system, but you’ll need to change the paths referenced below if `C:\php` isn’t used.
