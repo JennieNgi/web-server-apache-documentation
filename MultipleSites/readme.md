@@ -37,6 +37,12 @@
     * Testing the MySQL Community Server
     * Optional - Securing the Initial MySQL Account
     * Optional - Registering MySQL as a Windows Service
+* [Configuration files](../Configurationfiles)
+    * [hosts]
+    * [httpd.conf]
+    * [httpd-vhosts.conf]
+    * [php.ini]
+    * [my.ini]
 
 <br>
 
