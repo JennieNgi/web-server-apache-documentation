@@ -58,7 +58,7 @@ openssl req -config openssl.cnf -new -out server.csr -keyout server.pem
 ```
 4. Enter you own PEM pass pharse
 
-![PEM pass pharse](/images/pem.png)
+![PEM pass pharse](/images/pem.PNG)
 
 5. Fill out the csr information
 
