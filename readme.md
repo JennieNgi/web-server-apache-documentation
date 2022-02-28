@@ -37,4 +37,9 @@ This documentation is to provide guidelines for installation and configuration p
     * Testing the MySQL Community Server
     * Optional - Securing the Initial MySQL Account
     * Optional - Registering MySQL as a Windows Service
-
+* [Configuration files](./Configuration files)
+    * [hosts]
+    * [httpd.conf]
+    * [httpd-vhosts.conf]
+    * [php.ini]
+    * [my.ini]
