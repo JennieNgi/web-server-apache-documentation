@@ -37,7 +37,12 @@
     * Edit Environment Variables
     * Configure PHP as an Apache module
     * Testing a PHP file
-
+* [Configuration files](../Configurationfiles)
+    * [hosts]
+    * [httpd.conf]
+    * [httpd-vhosts.conf]
+    * [php.ini]
+    * [my.ini]
 
 
 # Installing MySQL Community Server <a id="mysql"></a>
